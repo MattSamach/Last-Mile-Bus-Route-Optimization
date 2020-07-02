@@ -1,0 +1,16 @@
+﻿SOURCE,COLUMN,DESCRIPTION
+minadeo_stops_all,STOP_ID,"The order of stops with multiple in each zip code, without the school"
+,NUM_KIDS,"Calculated by neighborhood, based on ratio of square area to to total kids: 251 total kids * (zone_area/total_area)"
+,NAME,Name of neighborhood of school zone
+,LABEL,Full label or name of stop
+,ZONE_AREA,Calulcated area of neighborhood subzone
+,ZIP,Zipcode - this is our full stop zone
+,HOOD,Name of neighborhood
+,NEIGH_WALK,Walk time per child within neighborhood
+,ZIP_TOTAL_WALK,Total sumproduct of walk time for all children in zipcode (sum of neigh_walk*num_kids for all neigh. In zip)
+,ZIP_PER_WALK,Walk time per child within zipcode
+kids_per_zip,Appx_Zip,Zipcode - this is our full stop zone
+,NUM_KIDS,Total number of children in zip code (population)
+distance_matrix,InputID,"Start stop ID, beginning with school = 0"
+,TargetID,"End stop ID, beginning with school = 0"
+,Distance,Distance form InputID to TargetID

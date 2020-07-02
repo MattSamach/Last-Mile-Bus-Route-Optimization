@@ -1,0 +1,12 @@
+STOP_ID,NUM_KIDS,NAME,LABEL,ZONE_AREA,HOOD,Student_Walk_Time,TWT
+11,6,HOMEWOOD SOUTH,Homewood South Neighborhood,15208,Homewood South,1.09,18.72160063
+10,9,POINT BREEZE NORTH,Point Breeze South Neighborhood,15221,Point Breeze North,1.29,181.0499173
+9,29,POINT BREEZE,Point Breese Neighborhood,15221,Point Breeze,2.34,96.88094944
+8,5,HOMEWOOD WEST,Homewood West Neighborhood,15208,Homewood West,0.97,21.21991845
+7,58,SQUIRREL HILL SOUTH,Squirrel Hill South Neighborhood,15217,Squirrel Hill South,3.28,229.3882437
+6,13,REGENT SQUARE,Regent Square Neighborhood,15218,Regent Square,1.57,242.1504607
+5,11,GREENFIELD,Greenfield Neighborhood,15217,Greenfield,1.43,491.0130122
+4,78,HAZELWOOD,Hazelwood Neighborhood,15207,Hazelwood,3.82,313.2351229
+3,35,SWISSHELM PARK,Swisselm Park Neighborhood,15218,Swisshelm Park,2.53,139.6017573
+2,6,GLEN HAZEL,Glen Hazel Neighborhood,15207,Glen Hazel,1.04,750.2722183
+1,0,Minadeo School,Minadeo School,1,Minadeo School,0,0
